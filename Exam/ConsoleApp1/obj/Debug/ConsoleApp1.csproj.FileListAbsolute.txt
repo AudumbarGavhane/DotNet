@@ -1,0 +1,8 @@
+E:\dotnet Day7\Exam\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+E:\dotnet Day7\Exam\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+E:\dotnet Day7\Exam\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+E:\dotnet Day7\Exam\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+E:\dotnet Day7\Exam\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.SuggestedBindingRedirects.cache
+E:\dotnet Day7\Exam\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+E:\dotnet Day7\Exam\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+E:\dotnet Day7\Exam\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
